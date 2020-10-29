@@ -2,18 +2,18 @@
 <img src="https://camo.githubusercontent.com/a869a2aaab296ef925343d7e76518cd213eb0a30/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732d6e65772e706e67">
 </h1>
 
-# 🚀About 
+### 🚀About 
 I'll be updating every small step I take during Rocketseat's GoStack bootcamp and keep up with my development during it's course.
 
 
 ---
 
-## ⌛Status 
+### ⌛Status 
 In Progress...
 
 ---
 
-## 📑Content 
+### 📑Content 
 
 - [Conceitos do Node.js]
 - [Conceitos do ReactJS]
