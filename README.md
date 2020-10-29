@@ -16,15 +16,15 @@ In Progress...
 ### 📑Content 
 
 - [Conceitos do Node.js](https://github.com/tamiribeiro/GoStack-challenges/tree/main/gostack-conceitos-nodejs)
-- [Conceitos do ReactJS]
-- [Conceitos do React Native]
-- [Fundamentos Node.js]
-- [Database upload]
-- [Fundamentos ReactJS]
-- [Fundamentos React Native]
-- [Database relations]
-- [Go Restaurant Web]
-- [Go Restaurant Mobile]
+- Conceitos do ReactJS
+- Conceitos do React Native
+- Fundamentos Node.js
+- Database upload
+- Fundamentos ReactJS
+- Fundamentos React Native
+- Database relations
+- Go Restaurant Web
+- Go Restaurant Mobile
 
 ---
 
