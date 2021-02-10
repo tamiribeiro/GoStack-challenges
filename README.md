@@ -18,8 +18,8 @@ In Progress...
 - [Conceitos do Node.js](https://github.com/tamiribeiro/GoStack-challenges/tree/main/gostack-conceitos-nodejs)
 - [Conceitos do ReactJS](https://github.com/tamiribeiro/conceitos-reactjs)
 - [Conceitos do React Native](https://github.com/tamiribeiro/conceitos-react-native)
-- Fundamentos Node.js
-- Database upload
+- [Fundamentos Node.js](https://github.com/tamiribeiro/fundamentos-nodejs)
+- [Database upload](https://github.com/tamiribeiro/database-upload)
 - Fundamentos ReactJS
 - Fundamentos React Native
 - Database relations
